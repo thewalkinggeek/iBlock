@@ -7,4 +7,4 @@ To unlock the PC: Enter the random 4 digit password displayed on screen.
 iBlock helps fight back against kids and pets who like button smashing!
 
 
-- TheWalkingGeek  http://www.thewalkingeek.com
+Written By: TheWalkingGeek  http://www.thewalkingeek.com
